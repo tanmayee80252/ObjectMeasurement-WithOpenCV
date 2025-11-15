@@ -136,3 +136,14 @@ Keep the entire paper visible in the frame
 Place objects fully inside the A4 boundaries
 
 Use a high-resolution webcam or image
+
+ **📸 Output Examples:**
+
+ Example 1  
+![Output 1](outputimg1.png)
+
+ Example 2  
+![Output 2](outputimg2.png)
+
+ Example 3  
+![Output 3](outputimg3.png)
